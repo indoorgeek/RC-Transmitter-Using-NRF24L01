@@ -11,7 +11,8 @@ My plan is to build the drone in two parts. First I will make the transmitter an
 <p float="center">
   <img src="https://github.com/indoorgeek/RC-Transmitter-Using-NRF24L01/assets/63697764/1ac94bab-3164-4ee2-88e1-b2a8938782d0" width="45%"/>
   <img src="https://github.com/indoorgeek/RC-Transmitter-Using-NRF24L01/assets/63697764/c930bb32-6b57-4a13-99f8-b28d3edb9adc" width="45%"/> 
-</p>
+</p> 
+
 I got my PCBs manufactured from [JLCPCB!](https://jlcpcb.com/DAA). Get your PCBs beautifully fabricated from JLCPCB for just 2$!
 
 The most important and necessary controls are throttle, yaw, roll, and pitch. These analog inputs will be provided by two 2-axis joysticks. I have added two 10k potentiometers to which other helpful controls like throttle trim, pitch trim, etc can be assigned. I have also used two switches to provide digital inputs which then can be used to toggle between different flight modes. For beginners like me, these inputs are sufficient to get started.
